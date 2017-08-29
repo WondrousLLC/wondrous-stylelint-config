@@ -8,7 +8,7 @@ A stylelint config based on [sass-guidelin.es](https://sass-guidelin.es/) and
 ## Installation
 
 ```console
-$ npm install --save wondrous-stylelint-config
+$ npm install --save @wondrousllc/stylelint-config
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Set your stylelint config to:
 
 ```json
 {
-  "extends": "wondrous-stylelint-config"
+  "extends": "@wondrousllc/stylelint-config"
 }
 ```
 
@@ -30,7 +30,7 @@ For example, to change the `indentation` to tabs and turn off the `number-leadin
 
 ```json
 {
-  "extends": "stylelint-config-sass-guidelines",
+  "extends": "@wondrousllc/stylelint-config",
   "rules": {
     "indentation": "tab",
     "number-leading-zero": null
