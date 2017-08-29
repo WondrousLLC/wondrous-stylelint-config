@@ -10,7 +10,7 @@
     "sass",
     "guidelines"
   ],
-  "author": "WONDROUS LLC",
+  "author": "WONDROUS LLC <hello@wondrous.ch> (https://www.wearewondrous.com)",
   "license": "MIT",
   "repository": {
     "type": "git",
