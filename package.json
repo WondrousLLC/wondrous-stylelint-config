@@ -1,5 +1,5 @@
 {
-  "name": "wondrous-stylelint-config",
+  "name": "@wondrousllc/stylelint-config",
   "version": "1.0.1",
   "description": "Sharable stylelint config based on https://sass-guidelin.es/",
   "keywords": [
