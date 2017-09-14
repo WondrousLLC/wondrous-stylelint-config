@@ -3,7 +3,6 @@ module.exports = {
   "rules": {
     "string-quotes": "double",
     "order/properties-alphabetical-order": null,
-    "order/declaration-block-properties-alphabetical-order": null,
     "max-nesting-depth": [
       3,
       {
