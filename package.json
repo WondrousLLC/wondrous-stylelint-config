@@ -1,6 +1,6 @@
 {
   "name": "@wondrousllc/stylelint-config",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Sharable stylelint config based on https://sass-guidelin.es/",
   "keywords": [
     "stylelint",
