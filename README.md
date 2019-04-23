@@ -40,6 +40,6 @@ For example, to change the `indentation` to tabs and turn off the `number-leadin
 
 ## Creator
 
-[WONDROUS LLC](https://www.wearewondrous.com/)
+[WONDROUS](https://www.wearewondrous.com/)
 
 ## [License](LICENSE)
