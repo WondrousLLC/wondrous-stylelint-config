@@ -1,5 +1,5 @@
 {
-  "name": "@wondrousllc/stylelint-config",
+  "name": "@wearewondrous/stylelint-config",
   "version": "1.4.0",
   "description": "Sharable stylelint config based on https://sass-guidelin.es/",
   "keywords": [
@@ -14,11 +14,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WondrousLLC/wondrous-stylelint-config.git"
+    "url": "git+https://github.com/wearewondrous/wondrous-stylelint-config.git"
   },
-  "homepage": "https://github.com/WondrousLLC/wondrous-stylelint-config#readme",
+  "homepage": "https://github.com/wearewondrous/wondrous-stylelint-config#readme",
   "bugs": {
-    "url": "https://github.com/WondrousLLC/wondrous-stylelint-config/issues"
+    "url": "https://github.com/wearewondrous/wondrous-stylelint-config/issues"
   },
   "main": "index.js",
   "files": [
