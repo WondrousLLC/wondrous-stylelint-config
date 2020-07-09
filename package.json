@@ -25,12 +25,15 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^5.4.0"
+    "stylelint-config-sass-guidelines": "^7.0.0"
   },
   "scripts": {
     "release:major": "npm version major -m \"Released version %s\" && npm publish && git push --follow-tags",
     "release:minor": "npm version minor -m \"Released version %s\" && npm publish && git push --follow-tags",
     "release:patch": "npm version patch -m \"Released version %s\" && npm publish && git push --follow-tags"
+  },
+  "engines": {
+    "node": ">=10"
   },
   "babel": {
     "presets": [

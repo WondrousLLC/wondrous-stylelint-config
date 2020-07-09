@@ -5,10 +5,6 @@
 A stylelint config based on [sass-guidelin.es](https://sass-guidelin.es/) and
 [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines).
 
-## Requirements
-
-The used version of 'stylelint-config-sass-guidelines' (^5.4.0) requires Node.js 6.x or greater.
-
 ## Installation
 
 ```console
