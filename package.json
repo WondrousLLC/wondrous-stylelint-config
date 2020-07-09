@@ -25,7 +25,7 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-config-sass-guidelines": "^4.1.0"
+    "stylelint-config-sass-guidelines": "^5.4.0"
   },
   "scripts": {
     "release:major": "npm version major -m \"Released version %s\" && npm publish && git push --follow-tags",
