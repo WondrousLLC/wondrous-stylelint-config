@@ -27,7 +27,6 @@ Simply add a `"rules"` key to your config and add your overrides there.
 
 For example, to change the `indentation` to tabs and turn off the `number-leading-zero` rule:
 
-
 ```json
 {
   "extends": "@wearewondrous/stylelint-config",
